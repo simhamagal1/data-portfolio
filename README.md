@@ -1,7 +1,7 @@
 # data-portfolio
 # Data Science & Analytics Portfolio
 
-Hi, I'm Simha Magal — a High-Tech Sciences student specializing in Data Science, Economics, and Business Management.
+Hi, I'm Simha Magal- a High-Tech Sciences student specializing in Data Science, Economics, and Business Management.
 
 This portfolio brings together selected academic and personal projects that reflect my approach to data-driven problem solving: analytical thinking, methodological rigor, and a clear connection between technical decisions and real-world context.
 
